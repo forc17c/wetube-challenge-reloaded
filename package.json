@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/forc17c/wetube-reloaded.git"
+    "url": "git+https://github.com/forc17c/wetube-challenge-reloaded.git"
   },
   "scripts": {
     "start": "node build/init.js",
@@ -18,9 +18,9 @@
   "author": "Changhyeon<forc17c@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/forc17c/wetube-reloaded/issues"
+    "url": "https://github.com/forc17c/wetube-challenge-reloaded/issues"
   },
-  "homepage": "https://github.com/forc17c/wetube-reloaded#readme",
+  "homepage": "https://github.com/forc17c/wetube-challenge-reloaded#readme",
   "dependencies": {
     "@ffmpeg/core": "^0.10.0",
     "@ffmpeg/ffmpeg": "^0.10.1",
